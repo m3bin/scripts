@@ -8,6 +8,7 @@ sudo apt-get -y install pandas
 sudo apt-get -y install scipy
 sudo apt-get -y install python3-scipy
 sudo apt-get -y install python3-sklearn
+sudo apt-get -y install python3-pandas
 sudo apt-get -y install sklearn
 sudo apt-get -y install numpy
 sudo apt-get -y install python3-matplotlib
